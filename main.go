@@ -68,6 +68,15 @@ var categoryPageAddresses = []string{ // A slice (list) of text values.
 	"https://detecto.com/category/in-bed-scales/subcategory/ibfl500",
 	"https://detecto.com/category/in-bed-scales/subcategory/ib800",
 	"https://detecto.com/category/patient-lift-scales/subcategory/pl-series",
+	"https://detecto.com/category/bariatric-scales/subcategory/6800",
+	"https://detecto.com/category/bariatric-scales/subcategory/6855",
+	"https://detecto.com/category/bariatric-scales/subcategory/6855mhr",
+	"https://detecto.com/category/bariatric-scales/subcategory/6854dhr",
+	"https://detecto.com/category/bariatric-scales/subcategory/6856",
+	"https://detecto.com/category/bariatric-scales/subcategory/6856mhr",
+	"https://detecto.com/category/bariatric-scales/subcategory/6857dhr",
+	"https://detecto.com/category/bariatric-scales/subcategory/6868",
+	"https://detecto.com/category/bariatric-scales/subcategory/6100-series",
 } // End of the list of category pages.
 
 // productPathFragments identifies links that lead to individual product detail pages.
