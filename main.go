@@ -62,6 +62,12 @@ var categoryPageAddresses = []string{ // A slice (list) of text values.
 	"https://detecto.com/category/baby-scales/subcategory/8435-digital",
 	"https://detecto.com/category/baby-scales/subcategory/450-series-weigh-beam",
 	"https://detecto.com/category/baby-scales/subcategory/hs25kgp-suspended",
+	"https://detecto.com/category/chair-scales/subcategory/475-4751",
+	"https://detecto.com/category/chair-scales/subcategory/6475-6475k",
+	"https://detecto.com/category/chair-scales/subcategory/6880",
+	"https://detecto.com/category/in-bed-scales/subcategory/ibfl500",
+	"https://detecto.com/category/in-bed-scales/subcategory/ib800",
+	"https://detecto.com/category/patient-lift-scales/subcategory/pl-series",
 } // End of the list of category pages.
 
 // productPathFragments identifies links that lead to individual product detail pages.
